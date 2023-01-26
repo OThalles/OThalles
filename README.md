@@ -4,7 +4,7 @@
 ![OThalles GitHub stats](https://github-readme-stats.vercel.app/api?username=OThalles&show_icons=true&theme=dracula)
 
 
-## Técnologias utilizadas 🤠🖥️: 
+## Utilizo as seguintes tecnologias 🤠🖥️: 
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
